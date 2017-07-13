@@ -1,0 +1,308 @@
+{
+  "Contact" : {
+    "city" : "Stuart, FL 34997",
+    "dscr" : "Hotel",
+    "email" : "name@email.com",
+    "manager" : "John Doe",
+    "phone" : "772-287-5979",
+    "place" : "Sail Fish johnxxx",
+    "street" : "6220 SE Federal Hwy",
+    "website" : "https://www.yayoirestaurants.com/th/menu"
+  },
+  "Feedbacks" : {
+    "node20170624T172428" : {
+      "msg" : "great plea",
+      "nm" : "john",
+      "rate" : 2
+    },
+    "node20170624T172648" : {
+      "msg" : "jakee",
+      "nm" : "baker",
+      "rate" : 5
+    },
+    "node20170624T172945" : {
+      "msg" : "jodhnmdndd",
+      "nm" : "hook",
+      "rate" : 2
+    },
+    "node20170624T173204" : {
+      "msg" : "Helen",
+      "nm" : "Helen",
+      "rate" : 0
+    },
+    "node20170624T173540" : {
+      "msg" : "opopopopop",
+      "nm" : "opopopopo",
+      "rate" : 5
+    }
+  },
+  "Gallery" : {
+    "node20170619T041953" : {
+      "dscr" : "Xxxx",
+      "icond" : "2016.06.24T08:49:25.EDT",
+      "nm" : "Xxxxvv6777",
+      "url" : "https://raw.githubusercontent.com/jalajoninc/ghub/master/Thai/pad_thai.jpg"
+    },
+    "node20170619T042150" : {
+      "dscr" : "Gfklklklgfklfgkl",
+      "nm" : "Gfglglkgf",
+      "url" : "https://raw.githubusercontent.com/jalajoninc/ghub/master/Beverages/Beer/asahi.jpg"
+    },
+    "node20170620T070221" : {
+      "dscr" : "11110",
+      "nm" : "Forest",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/World%2FFlorida%2FStuart%2FFood%2FThai%2F7722862141%2FGallery%2Fitem20170620T070201.jpg?alt=media&token=21aa5351-0386-46b6-8913-957f428c6f26"
+    },
+    "node20170624T182124" : {
+      "dscr" : "John",
+      "nm" : "John",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/World%2FFlorida%2FStuart%2FFood%2FThai%2F7722862141%2FGallery%2Fitem20170624T182118.jpg?alt=media&token=bf0f7a7f-45f9-45da-bf62-ff2196c112f9",
+      "urld" : "2017.06.24T18:21:24.EDT"
+    },
+    "node20170624T184558" : {
+      "dscr" : "",
+      "nm" : "John",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/World%2FFlorida%2FStuart%2FFood%2FThai%2F7722862141%2FGallery%2Fitem20170624T184553.jpg?alt=media&token=78937f2a-4cf4-4f02-8ef1-5e34ae114b9e",
+      "urld" : "2017.06.24T18:45:58.EDT"
+    },
+    "node20170624T190030" : {
+      "dscr" : "",
+      "nm" : "    John      ",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/World%2FFlorida%2FStuart%2FFood%2FThai%2F7722862141%2FGallery%2Fitem20170624T190021.jpg?alt=media&token=7d44f17b-4401-4627-b961-436da154ba7b",
+      "urld" : "2017.06.24T19:00:30.EDT"
+    },
+    "rm02" : {
+      "dscr" : "2222",
+      "nm" : "PREMIUM ROOM SEA VIEW",
+      "url" : "https://raw.githubusercontent.com/jalajoninc/ghub/master/Beverages/Beer/asahi.jpg"
+    },
+    "rm03" : {
+      "dscr" : "3333",
+      "nm" : "PENTHOUSE SUITE",
+      "url" : "https://raw.githubusercontent.com/jalajoninc/ghub/master/Beverages/Beer/asahi.jpg"
+    },
+    "rm04" : {
+      "dscr" : "4444",
+      "nm" : "THE LEVEL SEA VIEW",
+      "url" : "https://raw.githubusercontent.com/jalajoninc/ghub/master/Thai/pad_thai.jpg"
+    }
+  },
+  "Home" : {
+    "dscr" : "A fast food restaurant like no other with a large menu of grilled chicken that are tasty, healthy, served with steamy hot rice fragrant with Thai herbs, the way Thais love their food!",
+    "icon" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/World%2FTHA%2FBangkok%2FCentral%2FFood%2FThai%2FChester%2FHome%2Fic20170710T102044.jpg?alt=media&token=4ce9f72e-f20f-426b-8d1e-bb60543a4265",
+    "icond" : "2017.07.10T10:20:47.EDT",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/World%2FTHA%2FBangkok%2FCentral%2FFood%2FThai%2FChester%2FHome%2Fim20170710T102051.jpg?alt=media&token=88811171-6f20-4388-9344-0c76b29b4a0a",
+    "imaged" : "2017.07.10T10:20:53.EDT",
+    "nm" : "Chester's Grill"
+  },
+  "Login" : {
+    "pwd" : "admin",
+    "usr" : "admin"
+  },
+  "Menu" : {
+    "Default" : {
+      "Beverages" : {
+        "Pepsi 145 Lt" : {
+          "dscr" : "カリフォルニアロール \n แคลิฟอร์เนียไข่กุ้ง",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/food_poster_sm.jpg",
+          "item" : "Pepsi 145 Lt",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Pepsi 550 ml" : {
+          "dscr" : "カリフォルニアロール \n แคลิฟอร์เนียไข่กุ้ง",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/food_poster_sm.jpg",
+          "item" : "Pepsi 550 ml",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        }
+      },
+      "Chicken" : {
+        "Chicken Golden Aroma" : {
+          "dscr" : "*หมายเหตุ* เฉพาะ 9 สาขา บิ๊กซีบางพลี เดอะมอลล์งามวงศ์วาน เมเจอร์ปิ่นเกล้า บิ๊กซีนครปฐม เดอะมอลล์ท่าพระ เซ็นทรัลรัตนาธิเบศน์ พาซิโอ้ ซีคอนบางแค โลตัสพัทยา ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Chicken/Chicken%20Golden%20Aroma.jpg",
+          "item" : "Chicken Golden Aroma",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Crispy Brown Chicken" : {
+          "dscr" : "ไก่ทอด โรยด้วยเครื่องเทศกรอบหอม ฉีกทุกความจำเจ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Chicken/Crispy%20Brown%20Chicken.jpg",
+          "item" : "Crispy Brown Chicken",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Grilled Chicken" : {
+          "dscr" : "ไก่ย่างหมักด้วยเครื่องเทศสูตรเผ็ดจากเชสเตอร์ อร่อยแซ่บ จัดจ้านถึงใจ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Chicken/Grilled%20Chicken.jpg",
+          "item" : "Grilled Chicken",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        }
+      },
+      "Inter Menu" : {
+        "Chicken Spaghetti" : {
+          "dscr" : "เส้นสปาเก็ตตี้เหนียวนุ่ม ผสานเข้าซอสไก่สูตรเด็ดจากเชสเตอร์ มีจำหน่ายเฉพาะบางสาขา ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Inter%20Menu/Chicken%20Spaghetti.jpg",
+          "item" : "Chicken Spaghetti",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Golden Fish" : {
+          "dscr" : "Golden Fish",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Inter%20Menu/Golden%20Fish.jpg",
+          "item" : "Golden Fish",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Golden Fish with French Fries" : {
+          "dscr" : "Golden Fish with French Fries",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Inter%20Menu/Golden%20Fish%20with%20French%20Fries.jpg",
+          "item" : "Golden Fish with French Fries",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Kurobuta Steak with French Fries" : {
+          "dscr" : "Kurobuta Steak with French Fries",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Inter%20Menu/Kurobuta%20Steak%20with%20French%20Fries.jpg",
+          "item" : "Kurobuta Steak with French Fries",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Kurobuta Steak with Rice" : {
+          "dscr" : "Kurobuta Steak with Rice",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Inter%20Menu/Kurobuta%20Steak%20with%20Rice.jpg",
+          "item" : "Kurobuta Steak with Rice",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Spicy Spaghetti Soft Chicken " : {
+          "dscr" : "เน้นๆ ด้วยอกไก่ย่าง ขนาดจัมโบ้ แซ่บสะท้าน รสจัดจ้าน สไตล์เชสเตอร์ ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Inter%20Menu/Spicy%20Spaghetti%20Soft%20Chicken%20.jpg",
+          "item" : "Spicy Spaghetti Soft Chicken ",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        }
+      },
+      "Menu Burger" : {
+        "Chicken Burger" : {
+          "dscr" : "ขนมปังร้อนๆ กับแพ็ตตี้ไก่เนื้อแน่นชุบแป้งทอด หอมกลิ่นกระเทียม พริกไทยดำ และสลัดครีม ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Menu%20Burger/Chicken%20Burger.jpg",
+          "item" : "Chicken Burger",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Double Chicken Burger" : {
+          "dscr" : "ขนมปังร้อนๆ กับแพ็ตตี้ไก่เนื้อแน่นชุบแป้งทอด หอมกลิ่นกระเทียม พริกไทยดำ และสลัดครีม ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Menu%20Burger/Double%20Chicken%20Burger.jpg",
+          "item" : "Double Chicken Burger",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Double Spicy Fish Burger" : {
+          "dscr" : "ขนมปังเบอร์เกอร์เนื้อนุ่มกับแพ็ตตี้ปลาทอดรสเผ็ด ราดด้วยทาร์ทาร์ซอสรสอร่อย แซ่บ ซี้ดดด",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Menu%20Burger/Double%20Spicy%20Fish%20Burger.jpg",
+          "item" : "Double Spicy Fish Burger",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Hotdog" : {
+          "dscr" : "ขนมปังเนื้อนุ่ม ห่อไส้กรอกเนื้อแน่น ราดด้วยมายองเนสรสเข้มข้น อร่อยโดนใจ ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Menu%20Burger/Hotdog.jpg",
+          "item" : "Hotdog",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Spicy Fish Burger" : {
+          "dscr" : "ขนมปังเบอร์เกอร์เนื้อนุ่มกับแพ็ตตี้ปลาทอดรสเผ็ด ราดด้วยทาร์ทาร์ซอสรสอร่อย แซ่บ ซี้ดดด",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Menu%20Burger/Spicy%20Fish%20Burger.jpg",
+          "item" : "Spicy Fish Burger",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        }
+      },
+      "Snacks" : {
+        "Chicken Bomb" : {
+          "dscr" : "Chicken Bomb",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Snacks/Chicken%20Bomb.jpg",
+          "item" : "Chicken Bomb",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Chicken Nuggets 6 pcs" : {
+          "dscr" : "เนื้อไก่ปรุงรสชิ้นพอดีคำ ทอดจนได้สีเหลืองทอง กรอบบบนอก นุ่มใน เสิร์ฟพร้อมซอสบาร์บีคิวรสเข้ม ลงตัว ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Snacks/Chicken%20Nuggets%206%20pcs.jpg",
+          "item" : "Chicken Nuggets 6 pcs",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Fish Nuggets 4 pcs" : {
+          "dscr" : "เนื้อปลาปรุงรสชิ้นพอดีคำ ทอดจนสุกกรอบได้ที่ เสริมความอร่อยด้วยทาร์ทาร์ซอสสูตรพิเศษ ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Snacks/Fish%20Nuggets%204%20pcs.jpg",
+          "item" : "Fish Nuggets 4 pcs",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Fish and Chips" : {
+          "dscr" : "เนื้อปลาปรุงรสชิ้นพอดีคำ ทอดจนสุกกรอบได้ที่ เสิร์ฟพร้อมเฟร้นซ์ฟราย ทานคู่กับทาร์ทาร์ซอส อร่อยลงตัว ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Snacks/Fish%20and%20Chips.jpg",
+          "item" : "Fish and Chips",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Salad" : {
+          "dscr" : "เมนูเพื่อสุขภาพ ที่อุดมไปด้วยวิตามินจากผักสดหลากสี ถึง 5 ชนิด มาพร้อมกับสลัดครีมกลมกล่อม",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Snacks/Salad.jpg",
+          "item" : "Salad",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Spicy Chicken Strips 1 pcs" : {
+          "dscr" : "เนื้อไก่ล้วนๆ ไม่มีกระดูก ทอดจนกรอบนอกนุ่มใน อร่อยเพลินเกินห้ามใจ ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Snacks/Spicy%20Chicken%20Strips%201%20pcs.jpg",
+          "item" : "Spicy Chicken Strips 1 pcs",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "Spicy Grilled Chicken Salad" : {
+          "dscr" : "ไก่เผ็ดเชสเตอร์ พร้อมผักสดหลากสี ราดด้วยน้ำยำสีเขียวรสแซ่บสูตรเฉพาะจากเชสเตอร์ อร่อย แซ่บ ซี้ดดด ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Snacks/Spicy%20Grilled%20Chicken%20Salad.jpg",
+          "item" : "Spicy Grilled Chicken Salad",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        },
+        "ปีกไก่คั่วเกลือ" : {
+          "dscr" : "ปีกไก่ส่วนกลางชิ้นพอดีคำ นำมาคั่วเกลือให้กรอบหอม ",
+          "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Menu/Snacks/%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B8%AD.jpg",
+          "item" : "ปีกไก่คั่วเกลือ",
+          "price" : "",
+          "surcharge" : "0.01",
+          "tax" : "0.06"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Nara's Coconut Ice Cream": {
+    "dscr": "Nara's Coconut Ice Cream with Assorted Thai Sweet Condiments",
+    "icon": "",
+    "item": "Nara's Coconut Ice Cream",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Mango Sticky Rice": {
+    "dscr": "Mango & Sticky Rice with Coconut Milk",
+    "icon": "",
+    "item": "Mango Sticky Rice",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Durian Ice Cream": {
+    "dscr": "Durian Ice Cream with Sticky Rice Topped with Peanut\n",
+    "icon": "",
+    "item": "Durian Ice Cream",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Tum Wan": {
+    "dscr": "Crispy Roll Roti with Coconut Syrup Palm Sugar & Ice Cream",
+    "icon": "",
+    "item": "Tum Wan",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kluayhom Tord": {
+    "dscr": "Deep-Fried Bananas in Cake Batter topped with\nIcing & Banana Syrup Served with Vanilla Ice Cream",
+    "icon": "",
+    "item": "Kluayhom Tord",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Lordchong Nara": {
+    "dscr": "Red Beans, Lord Chong Pandan, Sweet Coconut Milk topped\nwith Shave Ice and Caramalized Palm Sugar",
+    "icon": "",
+    "item": "Lordchong Nara",
+    "price": "30.0",
+    "special": "y",
+    "surcharge": "0.01",
+    "tax": "0.06",
+    "udate": "",
+    "unit": "",
+    "visible": "y"
+  },
+  "Taro Cake": {
+    "dscr": "Taro Cake\n",
+    "icon": "",
+    "item": "Taro Cake",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Herbal Drinks": {
+    "dscr": "Butterfly Pea, Lemongrass, Pandanus, Roselle,\nBael Fruit and Tamarind\n",
+    "icon": "",
+    "item": "Herbal Drinks",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Bael Fruit Cake": {
+    "dscr": "Bael Fruit Cake",
+    "icon": "",
+    "item": "Bael Fruit Cake",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  }
+}

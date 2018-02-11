@@ -1,0 +1,78 @@
+{
+  "Nam Prik Long Rua": {
+    "dscr": "Shrimp Paste with\nCrispy Catfish and Vegetables\n",
+    "icon": "",
+    "item": "Nam Prik Long Rua",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Nam Prik Pla Too": {
+    "dscr": "Hot Shrimp Paste Dip with Deep Fried Chub\nMackerel Fish and Vegetables",
+    "icon": "",
+    "item": "Nam Prik Pla Too",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Nam Prik Kung Seab": {
+    "dscr": "Southern Hot Shrimp Paste Dip\nand Vegetables\n",
+    "icon": "",
+    "item": "Nam Prik Kung Seab",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Phad Pak Ruam": {
+    "dscr": "Stir-Fried Seasonal Vegetables\nwith Oyster Sauce",
+    "icon": "",
+    "item": "Phad Pak Ruam",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Phad Yot Mara": {
+    "dscr": "Stir-Fried Winter Melon Green\n",
+    "icon": "",
+    "item": "Phad Yot Mara",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Ka Nar Pla Khem": {
+    "dscr": "Stir-Fried Kale with Thai Anchovy\n",
+    "icon": "",
+    "item": "Ka Nar Pla Khem",
+    "price": "30.0",
+    "special": "y",
+    "surcharge": "0.01",
+    "tax": "0.06",
+    "udate": "",
+    "unit": "",
+    "visible": "y"
+  },
+  "Phad Pak Bung": {
+    "dscr": "Stir-Fried Morning Glory\n",
+    "icon": "",
+    "item": "Phad Pak Bung",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kai Jiew Nua Phu": {
+    "dscr": "Omelet with Crab Meat\n",
+    "icon": "",
+    "item": "Kai Jiew Nua Phu",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kai Jiew Yongyai Nara": {
+    "dscr": "Crispy Fried Omelet with\nBasil and Chilli\n",
+    "icon": "",
+    "item": "Kai Jiew Yongyai Nara",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  }
+}

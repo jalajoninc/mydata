@@ -1,0 +1,78 @@
+{
+  "Hors d'oeuvre Naraa": {
+    "dscr": "Fish Cakes, Pork Satay,\nWonton, Spring Rolls, Pomelo Salad ",
+    "icon": "",
+    "item": "Hors d'oeuvre Naraa",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Larb Pla": {
+    "dscr": "Northeastern Crispy Fried Fillet of\nFish in Spicy Thai Dressing",
+    "icon": "",
+    "item": "Larb Pla",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Larb Tord": {
+    "dscr": "Spicy Fried Northeastern Pork Balls",
+    "icon": "",
+    "item": "Larb Tord",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Sakoo": {
+    "dscr": "Tapioca Balls with Minced Pork Filling",
+    "icon": "",
+    "item": "Sakoo",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Gai Pak Panang": {
+    "dscr": "A Taste of Southern Thailand, Chicken\nBarbecued in Spicy Thai Marinate",
+    "icon": "",
+    "item": "Gai Pak Panang",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Gai Tord Kapi": {
+    "dscr": "Deep Fried Chicken in Traditional\nThai Shrimp Paste ",
+    "icon": "",
+    "item": "Gai Tord Kapi",
+    "price": "30.0",
+    "special": "y",
+    "surcharge": "0.01",
+    "tax": "0.06",
+    "udate": "",
+    "unit": "",
+    "visible": "y"
+  },
+  "Som Tam Moo Krob ": {
+    "dscr": "Spicy Papaya Salad with Pork Crackling",
+    "icon": "",
+    "item": "Som Tam Moo Krob ",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Yum Som O ": {
+    "dscr": "Pomelo Salad",
+    "icon": "",
+    "item": "Yum Som O ",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Larb Phunim": {
+    "dscr": "Northeastern Crispy Fried Soft Shell Crab with Spicy Thai Dressing",
+    "icon": "",
+    "item": "Larb Phunim ",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Kung Tord Kratiem": {
+    "dscr": "Fried River Prawns with Garlic",
+    "icon": "",
+    "item": "Kung Tord Kratiem",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Chuchee Kung": {
+    "dscr": "Fried River Prawns with Red Curry Sauce",
+    "icon": "",
+    "item": "Chuchee Kung",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Phunim Phad Prik Thai Orn": {
+    "dscr": "Stir-Fried Soft Shell Crab with\nFresh Peppercorn",
+    "icon": "",
+    "item": "Phunim Phad Prik Thai Orn",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Phu Tord Prik Thai Dam": {
+    "dscr": "Fried Peppered Crab",
+    "icon": "",
+    "item": "Phu Tord Prik Thai Dam",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Phu Phad Pong Karee": {
+    "dscr": "Stir-Fried Crab with Yellow Curry",
+    "icon": "",
+    "item": "Phu Phad Pong Karee",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Phad Cha Talay": {
+    "dscr": "Mix Seafood with Chilli, Hot Basil\nand Galenga",
+    "icon": "",
+    "item": "Phad Cha Talay",
+    "price": "30.0",
+    "special": "y",
+    "surcharge": "0.01",
+    "tax": "0.06",
+    "udate": "",
+    "unit": "",
+    "visible": "y"
+  },
+  "Tomklong Talay": {
+    "dscr": "Hot and Spicy Seafood Soup",
+    "icon": "",
+    "item": "Tomklong Talay",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Pla Neung Manao": {
+    "dscr": "Steamed Fish with Spicy\nChilli Lime Sauce",
+    "icon": "",
+    "item": "Pla Neung Manao",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Pla Kaphong Chao Sao": {
+    "dscr": "Crispy Fried Sea Bass with Garlic,\nPeppercorn and Herbs\n",
+    "icon": "",
+    "item": "Pla Kaphong Chao Sao",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Tom Yum Kung": {
+    "dscr": "River Prawns in Spicy\nLemongrass and Lime Soup",
+    "icon": "",
+    "item": "Tom Yum Kung",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kang Kiew Wan": {
+    "dscr": "Green Curry Chicken or Beef",
+    "icon": "",
+    "item": "Kang Kiew Wan",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kang Phed Ped Yang": {
+    "dscr": "Roast Duck Red Curry",
+    "icon": "",
+    "item": "Kang Phed Ped Yang",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kang Pa Gai": {
+    "dscr": "Northern Chicken Curry\n(Non Coconut Milk)",
+    "icon": "",
+    "item": "Kang Pa Gai",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kang Kiew Wan Luk Chin Pla Phuket": {
+    "dscr": "Phuket Fish Balls Green Curry\n",
+    "icon": "",
+    "item": "Kang Kiew Wan Luk Chin Pla Phuket",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Massaman": {
+    "dscr": "Chicken or Beef Massaman\nSweet Coconut Curry",
+    "icon": "",
+    "item": "Massaman",
+    "price": "30.0",
+    "special": "y",
+    "surcharge": "0.01",
+    "tax": "0.06",
+    "udate": "",
+    "unit": "",
+    "visible": "y"
+  },
+  "Kang Som Cha-Om Kung Sod": {
+    "dscr": "Hot and Spicy Soup with\nPrawns and Fried Dill Pattie",
+    "icon": "",
+    "item": "Kang Som Cha-Om Kung Sod\n",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kang Leang": {
+    "dscr": "Vegetable Soup with\nPrawns and Thai Herbs\n",
+    "icon": "",
+    "item": "Kang Leang",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Tom Ka Gai": {
+    "dscr": "Chicken in Coconut Soup\n",
+    "icon": "",
+    "item": "Tom Ka Gai",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  }
+}

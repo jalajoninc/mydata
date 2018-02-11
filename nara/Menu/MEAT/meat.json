@@ -1,0 +1,78 @@
+{
+  "Gai Tord Sauce Manao": {
+    "dscr": "Crispy Fried Chicken in Lime Sauce\n",
+    "icon": "",
+    "item": "Gai Tord Sauce Manao",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Gai Khua Takrai": {
+    "dscr": "Deep Fried Chicken with Crispy\nLemongrass",
+    "icon": "",
+    "item": "Gai Khua Takrai",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Moo or Nua Phad Prik Thai Dam": {
+    "dscr": "Stir-Fried Pork / Beef in Black Pepper Sauce",
+    "icon": "",
+    "item": "Moo or Nua Phad Prik Thai Dam",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Makhuer Yao Phad Kraprao Moo": {
+    "dscr": "Stir-Fried Eggplants with Minced Pork,\nBlack Beans and Hot Basil",
+    "icon": "",
+    "item": "Makhuer Yao Phad Kraprao Moo",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Moo Kratiem Prik Thai": {
+    "dscr": "Stir-Fried Pork with Garlic",
+    "icon": "",
+    "item": "Moo Kratiem Prik Thai",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Moo Krob Phad Prik Khing": {
+    "dscr": "Stir-Fried Pork Crackling with Chilli and Ginger",
+    "icon": "",
+    "item": "Moo Krob Phad Prik Khing",
+    "price": "30.0",
+    "special": "y",
+    "surcharge": "0.01",
+    "tax": "0.06",
+    "udate": "",
+    "unit": "",
+    "visible": "y"
+  },
+  "Ped Yang Kraprao Krob": {
+    "dscr": "Grilled Duck with Crispy Hot Basil",
+    "icon": "",
+    "item": "Ped Yang Kraprao Krob",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Gai Tord Kapi": {
+    "dscr": "Deep Fried Chicken in Traditional\nThai Shrimp Paste",
+    "icon": "",
+    "item": "Gai Tord Kapi",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Gai Hor Bai Toei": {
+    "dscr": "Chicken Pandan",
+    "icon": "",
+    "item": "Gai Hor Bai Toei",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  }
+}

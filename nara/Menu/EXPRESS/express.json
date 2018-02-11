@@ -1,0 +1,78 @@
+{
+  "Kao Phad Samunprai": {
+    "dscr": "Fried Rice with Thai Herbs",
+    "icon": "",
+    "item": "Kao Phad Samunprai",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kao Phad Pla Too": {
+    "dscr": "Fried Rice with Chub Mackerel Fish",
+    "icon": "",
+    "item": "Kao Phad Pla Too",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kao Phad Nara": {
+    "dscr": "Nara Fried Rice with Pork, Salted Eggs,\nChilli and Kale",
+    "icon": "",
+    "item": "Kao Phad Nara",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kao Phad Kung": {
+    "dscr": "Fried Rice with Prawns",
+    "icon": "",
+    "item": "Kao Phad Kung",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kuay Tiew Rua": {
+    "dscr": "Ayuthaya Boat Noodle served\nDry or with Soup, with Pork\nor Beef",
+    "icon": "",
+    "item": "Kuay Tiew Rua",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Kuay Tiew Sukothai": {
+    "dscr": "Rice Noodles in Hot & Spicy Tom\nYum Soup with Roasted Pork,\nPork Ribs & Shrimp Balls served\nDry or with Soup",
+    "icon": "",
+    "item": "Kuay Tiew Sukothai",
+    "price": "30.0",
+    "special": "y",
+    "surcharge": "0.01",
+    "tax": "0.06",
+    "udate": "",
+    "unit": "",
+    "visible": "y"
+  },
+  "Lard Na": {
+    "dscr": "Deep Fried or Braised Noodles\nwith Pork, Chicken / Beef or Prawns Gravy Sauce",
+    "icon": "",
+    "item": "Lard Na\n",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Phad Thai Kai Krob": {
+    "dscr": "Phad Thai Noodles with\nPrawns in Sweet Tamarind\nSauce and Crispy Egg Floss",
+    "icon": "",
+    "item": "Phad Thai Kai Krob",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  },
+  "Gai Yang Som Tum": {
+    "dscr": "Grilled Chicken or Pork served with Sticky Rice & Papaya Salad",
+    "icon": "",
+    "item": "Gai Yang Som Tum",
+    "price": "",
+    "surcharge": "0.01",
+    "tax": "0.06"
+  }
+}

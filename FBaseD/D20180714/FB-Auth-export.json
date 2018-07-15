@@ -1,0 +1,140 @@
+{
+  "Chesters" : {
+    "Chesters" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Chester",
+      "usr" : "chesters",
+      "zid" : "th.bkk.central.food.chester"
+    },
+    "chesters" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Chester",
+      "usr" : "chesters",
+      "zid" : "th.bkk.central.food.chester"
+    }
+  },
+  "Fuji" : {
+    "Fuji1" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Fuji",
+      "usr" : "fuji",
+      "zid" : "th.bkk.central.food.chester"
+    }
+  },
+  "MK" : {
+    "MK" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/MK",
+      "usr" : "mk",
+      "zid" : "th.bkk.central.food.mk"
+    },
+    "mk" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/MK",
+      "usr" : "mk",
+      "zid" : "th.bkk.central.food.mk"
+    },
+    "mk01" : {
+      "pwd" : "admin0112",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/MK",
+      "usr" : "mk01",
+      "zid" : "th.bkk.central.food.mk"
+    }
+  },
+  "Nanroyal" : {
+    "nanroyal" : {
+      "pwd" : "pk1213",
+      "url" : "World/THA/Nan/Central/Lodge/Resort/Nan Royal Resort",
+      "usr" : "nanroyal",
+      "zid" : "th.bkk.central.food.mk"
+    }
+  },
+  "Nara" : {
+    "Nara" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Nara",
+      "usr" : "nara",
+      "zid" : "th.bkk.central.food.nara"
+    },
+    "nara" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Nara",
+      "usr" : "nara",
+      "zid" : "th.bkk.central.food.nara"
+    }
+  },
+  "Publix" : {
+    "publix" : {
+      "pwd" : "admin",
+      "url" : "World/USA/Florida/Stuart/Shopping/Grocery/Publix",
+      "usr" : "publix",
+      "zid" : "th.bkk.central.food.nara"
+    }
+  },
+  "Suki" : {
+    "Suki" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Suki",
+      "usr" : "suki",
+      "zid" : "th.bkk.central.food.mk"
+    },
+    "suki" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Suki",
+      "usr" : "suki",
+      "zid" : "th.bkk.central.food.mk"
+    }
+  },
+  "Sunset" : {
+    "sunset" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Chonburi/Sattahip/Lodge/Resort/Sunset Village",
+      "usr" : "sunset",
+      "zid" : "th.sattahip.central.lodge.sunset"
+    }
+  },
+  "Sunset Village" : {
+    "sunset" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Chonburi/Sattahip/Lodge/Resort/Sunset Village",
+      "usr" : "sunset",
+      "zid" : "th.sattahip.central.lodge.sunset"
+    }
+  },
+  "Test" : {
+    "test" : {
+      "pwd" : "admin",
+      "url" : "World/USA/Florida/Stuart/Food/Thai/Test",
+      "usr" : "test",
+      "zid" : "usa.fl.stuart.myhotel"
+    }
+  },
+  "Thai4" : {
+    "Thai4" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Thai4",
+      "usr" : "thai4",
+      "zid" : "th.bkk.central.mass.thai4"
+    },
+    "thai4" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Thai4",
+      "usr" : "thai4",
+      "zid" : "th.bkk.central.mass.thai4"
+    }
+  },
+  "Yayoi" : {
+    "Yayoi" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Yayoi",
+      "usr" : "yayoi",
+      "zid" : "th.bkk.central.food.yayoi"
+    },
+    "yayoi" : {
+      "pwd" : "admin",
+      "url" : "World/THA/Bangkok/Central/Food/Thai/Yayoi",
+      "usr" : "yayoi",
+      "zid" : "th.bkk.central.food.yayoi"
+    }
+  }
+}

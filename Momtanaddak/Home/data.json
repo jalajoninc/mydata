@@ -1,31 +1,4 @@
 {
-  "Contact" : {
-    "adr" : {
-      "adr01" : {
-        "city" : "Bangkok Thailand 10230",
-        "fbase" : {
-          "f01" : {
-            "fpath" : "World/THA/Bangkok/Central/Food/Thai/Yayoi/Order"
-          },
-          "hq" : {
-            "fpath" : "HQ/Yayoi/Order"
-          }
-        },
-        "lat" : "13.818932",
-        "lng" : "100.650488",
-        "nm" : "Momtanaddak",
-        "street" : "8 Thanon Ratchada-Ram Intra, Khwaeng Nuanchan, Khet Bueng Kum"
-      }
-    },
-    "city" : "Bangkok Thailand 10230",
-    "dscr" : "Hotel",
-    "email" : "recruit@momtanaddak.com",
-    "manager" : "John Doe",
-    "phone" : "091-885-9559 ",
-    "place" : "Momtanaddak Headquarters",
-    "street" : "8 Thanon Ratchada-Ram Intra, Khwaeng Nuanchan, Khet Bueng Kum",
-    "website" : "http://www.momtanaddak.com"
-  },
   "Gallery" : {
     "gal001" : {
       "dscr" : "gal001",
@@ -53,7 +26,7 @@
   "Home" : {
     "alpha" : "0.28",
     "cfg" : {
-      "bg" : "C12267",
+      "bg" : "8C001A",
       "cart" : "y",
       "contact" : "y",
       "gallery" : "y",
@@ -65,16 +38,16 @@
       "zstore" : "y"
     },
     "dscr" : "Momtanaddak",
-    "icon" : "icon.jpg",
+    "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Home/icon.jpg",
     "icond" : "2017.07.10T10:20:53.EDT",
-    "image" : "zmusic.jpg",
+    "image" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Home/zmusic.jpg",
     "imaged" : "2017.07.10T10:21:56.EDT",
     "nm" : "Momtanaddak",
     "zadr" : [
       {
         "adr" : "8 Thanon Ratchada-Ram Intra, Khwaeng Nuanchan, Khet Bueng Kum",
         "city" : "Bangkok Thailand 10230",
-        "fbase" : "HQ/Momtanaddak/Order,World/THA/Bangkok/Central/Food/Thai/Momtanaddak",
+        "fbase" : "HQ/Momtanaddak/Order,World/THA/Bangkok/Central/;Food/Thai/Momtanaddak",
         "lat" : "13.818932",
         "lng" : "100.650488",
         "nm" : "Momtanaddak",
@@ -89,10 +62,10 @@
     "Momtanaddak" : {
       "menu" : {
         "Food" : {
-          "Entree" : {
+          "ข้าวแกง" : {
             "แกงเขียวหวานลูกชิ้นปลากราย" : {
               "dscr" : "แกงเขียวหวานลูกชิ้นปลากราย",
-              "icon" : "แกงเขียวหวานลูกชิ้นปลากราย600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/แกงเขียวหวานลูกชิ้นปลากราย600x600.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
               "item" : "แกงเขียวหวานลูกชิ้นปลากราย",
               "price" : "60.00",
@@ -116,7 +89,7 @@
             },
             "แกงส้มปลานิลใส่มะละกอ" : {
               "dscr" : "แกงส้มปลานิลใส่มะละกอ",
-              "icon" : "แกงส้มปลานิลใส่มะละกอ600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/แกงส้มปลานิลใส่มะละกอ600x600.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
               "item" : "แกงส้มปลานิลใส่มะละกอ",
               "price" : "60.00",
@@ -130,7 +103,7 @@
             },
             "ทอดมัน" : {
               "dscr" : "ทอดมัน",
-              "icon" : "ทอดมัน600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/ทอดมัน600x600.jpg",
               "icond" : "2018.02.12T00:43:21.GMT",
               "item" : "ทอดมัน",
               "price" : "60.00",
@@ -142,7 +115,7 @@
             },
             "เทโพหมูสามชั้น" : {
               "dscr" : "เทโพหมูสามชั้น",
-              "icon" : "เทโพหมูสามชั้น600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/เทโพหมูสามชั้น600x600.jpg",
               "icond" : "2018.02.12T01:18:42.GMT",
               "item" : "เทโพหมูสามชั้น",
               "price" : "60.00",
@@ -154,7 +127,7 @@
             },
             "ผัดกะเพราะพริกแห้ง" : {
               "dscr" : "ผัดกะเพราะพริกแห้ง",
-              "icon" : "ผัดกะเพราะพริกแห้ง600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/ผัดกะเพราะพริกแห้ง600x600.jpg",
               "icond" : "2018.02.12T01:21:17.GMT",
               "item" : "ผัดกะเพราะพริกแห้ง",
               "price" : "60.00",
@@ -166,7 +139,7 @@
             },
             "ผัดบล๊อคโคลี่น้ำมันหอยใส่หมูชิ้น" : {
               "dscr" : "ผัดบล๊อคโคลี่น้ำมันหอยใส่หมูชิ้น",
-              "icon" : "ผัดบล๊อคโคลี่น้ำมันหอยใส่หมูชิ้น600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/ผัดบล๊อคโคลี่น้ำมันหอยใส่หมูชิ้น600x600.jpg",
               "icond" : "2018.02.12T01:25:12.GMT",
               "item" : "ผัดบล๊อคโคลี่น้ำมันหอยใส่หมูชิ้น",
               "price" : "60.00",
@@ -178,7 +151,7 @@
             },
             "พะแนง" : {
               "dscr" : "พะแนง",
-              "icon" : "พะแนง600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/พะแนง600x600.jpg",
               "icond" : "2018.02.12T01:25:15.GMT",
               "item" : "พะแนง",
               "price" : "60.00",
@@ -190,7 +163,7 @@
             },
             "มัสมั่น" : {
               "dscr" : "มัสมั่น",
-              "icon" : "มัสมั่น600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/มัสมั่น600x600.jpg",
               "icond" : "2018.02.12T01:25:19.GMT",
               "item" : "มัสมั่น",
               "price" : "60.00",
@@ -202,7 +175,7 @@
             },
             "ลาบหมุ" : {
               "dscr" : "ลาบหมุ",
-              "icon" : "ลาบหมุ600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/ลาบหมุ600x600.jpg",
               "icond" : "2018.02.12T01:25:24.GMT",
               "item" : "ลาบหมุ",
               "price" : "60.00",
@@ -214,7 +187,7 @@
             },
             "สะโพกไก่ทอด" : {
               "dscr" : "สะโพกไก่ทอด",
-              "icon" : "สะโพกไก่ทอด600x600.jpg",
+              "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Momtanaddak/Menu/สะโพกไก่ทอด600x600.jpg",
               "icond" : "2018.02.12T01:25:31.GMT",
               "item" : "สะโพกไก่ทอด",
               "price" : "60.00",

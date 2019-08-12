@@ -25282,7 +25282,13 @@
               "icon" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/zzphotos%2F___%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%9420190804T034112259Z11b1be1788.jpg___?alt=media&token=807b7e1e-b943-4bf2-b0b4-215c443984d4",
               "icond" : "2018.02.13T15:25:26.GMT",
               "price" : "40.0",
-              "unit" : "piece"
+              "type" : "food",
+              "unit" : "piece",
+              "zreq" : [ {
+                "list" : "Pork:0.0,Beef:2.5",
+                "nm" : "Protein",
+                "rdef" : "Pork:0.0"
+              } ]
             },
             "บัตเตอร์บัน" : {
               "dscr" : "บัตเตอร์บันช็อคโกแลตชิพไส้เน บน้ำตาล ตรา เซเว่นเฟรช",
@@ -25860,82 +25866,66 @@
             "Amazon Cafe" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/amazon.jpg",
               "icond" : "2018.02.13T15:25:18.GMT",
-              "type" : "Food & Drink",
               "unit" : "1st Floor"
             },
             "Auntie Annes" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Festival/FPanda/Festival/Food/Desserts/Auntie",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/auntie.jpg",
               "icond" : "2018.02.13T15:25:19.GMT",
-              "type" : "Food & Drink",
               "unit" : "3rd Floor"
             },
             "Baby Bee Phung Noi Bakery" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/phungnoi.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "Basement 1: Strolling Mart"
             },
             "Black Canyon Coffee" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Cafe/Black Canyon",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/blackcanyon.png",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Coffee World" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/cworld.jpg",
               "icon_copy" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/coffeeworld.jpg\nhttps://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/auntie.jpg\n",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Cold Stone Creamery" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Festival/FPanda/Festival/Food/Desserts/Cold%20Stone%20Creamery",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/t4ln-listing.jpg",
               "icond" : "2018.02.13T15:25:18.GMT",
-              "type" : "Food & Drink",
               "unit" : "2nd Floor"
             },
             "Doppio by Ristr8o Coffee" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/doppio.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "2nd Floor"
             },
             "Freshy Freeze" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/freshy.png",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "4th Floor"
             },
             "Gelate" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/gelate.jpg",
               "icond" : "2018.02.13T15:25:26.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Mister Donut" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Festival/FPanda/Festival/Food/Desserts/MrDonut",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/mrdonut.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "3rd Floor"
             },
             "Mrs Fields" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/msfields.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "3rd Floor"
             },
             "Pang Ping Cafe" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/pangping.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "S&P" : {
@@ -25943,8 +25933,6 @@
               "icnt" : "115",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/t8iu-listing.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "S&P",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cn5we/s",
               "visible" : "y",
               "zcat" : "Japanese,Thai,International"
@@ -25952,23 +25940,18 @@
             "Saint Etoile" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/saintEtoile.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "1st Floor"
             },
             "Starbucks Coffee" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Cafe/Starbucks",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/starbucks.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "G Floor: Cosmo Boulevard"
             },
             "Swensen's" : {
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Festival/FPanda/Festival/Food/Desserts/Swensen's",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/t3qo-listing.jpg",
               "icond" : "2018.02.19T15:48:38.GMT",
-              "item" : "Swensen's",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cr9no/swensen-s",
               "visible" : "y",
               "zcat" : "Ice Cream,Sweets,Bakery &amp; Cafe"
@@ -25976,21 +25959,17 @@
             "Vieng Joom On Tea House" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/viengJoom.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "2nd Floor"
             },
             "Wawacha" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/wawacha.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Wine Connection" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Wine/WineC",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/wineconnection.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "2nd Floor"
             }
           },
@@ -26447,11 +26426,9 @@
           },
           "Food & Drink" : {
             "Chester's Grill" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Festival/FPanda/Festival/Food/American/Chester's Grill",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Home/chestergrill_10.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Fuji" : {
@@ -26459,36 +26436,35 @@
               "icnt" : "125",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/u3gn-listing.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "Fuji",
               "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cg2wk/fuji",
               "visible" : "y",
-              "zcat" : "Rice,Salad,Sashimi,Japanese"
+              "zcat" : "Rice,Salad,Sashimi,Japanese",
+              "zreq" : [ {
+                "list" : "Pork:0.0,Beef:2.5",
+                "nm" : "Protein",
+                "rdef" : "Pork:0.0"
+              } ]
             },
             "Jeffer Steak" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/jeffer.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Kane Mochi" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/kanemochi.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Laem Cha Roen Seafood" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/laem.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "MK" : {
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Festival/FPanda/Festival/Food/Desserts/MK",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/MK%20Bangkok/Home/mk006.jpg",
               "icond" : "2018.02.19T15:48:38.GMT",
-              "item" : "MK",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cu7mn/pizza-hut",
               "visible" : "y",
               "zcat" : "Italian,Pizza,American"
@@ -26498,8 +26474,6 @@
               "icnt" : "56",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/t0tb-listing.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "Pizza Hut",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cu7mn/pizza-hut",
               "visible" : "y",
               "zcat" : "Italian,Pizza,American"
@@ -26507,7 +26481,6 @@
             "Saap Saap" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/saap.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "The Pizza Company" : {
@@ -26515,8 +26488,6 @@
               "icnt" : "58",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/t0ki-listing.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "The Pizza Company",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/restaurant/t0ki/the-pizza-company-delco-changklan",
               "visible" : "y",
               "zcat" : "Pizza,Italian"
@@ -26524,13 +26495,11 @@
             "The Terrace" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Festival/Menu/Food/terrace.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "2nd Floor"
             },
             "Wagaya" : {
               "icon" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/zzphotos%2F___Wagaya20190803T092207018Z7de47ce1b.jpg___?alt=media&token=3d3c2ef3-e141-4a52-810f-c0406a024670",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Yoshinoya" : {
@@ -26538,8 +26507,6 @@
               "icnt" : "38",
               "icon" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/zzphotos%2F___Yoshinoya20190803T092242408Zdb484d180.jpg___?alt=media&token=450eed1b-ee7f-45d0-afe7-be8eb40785fc",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "Yoshinoya",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cf1tc/yoshinoya",
               "visible" : "y",
               "zcat" : "Fast Food,Rice,Japanese"
@@ -26786,11 +26753,9 @@
               "unit" : "4 Floor: Food Bazaar"
             },
             "Cold Stone Creamery" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Desserts/Cold%20Stone%20Creamery",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/t4ln-listing.jpg",
               "icond" : "2018.02.13T15:25:18.GMT",
-              "type" : "Food & Drink",
               "unit" : "2nd Floor"
             },
             "Dhara Devi Bakery" : {
@@ -26809,8 +26774,6 @@
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Desserts/MrDonut",
               "icon" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/zzphotos%2F___MisterDonut20190806T081734617Zc934ac814.jpg___?alt=media&token=adde692f-6dcb-46d9-96c9-5afc4fbc21b7",
               "icond" : "2019.08.06T10.17.51.GMT",
-              "item" : "Mister Donut",
-              "type" : "Food & Drink",
               "unit" : "3rd Floor"
             },
             "Mon Chou Chou" : {
@@ -26838,31 +26801,25 @@
           },
           " Food" : {
             "Chester's Grill" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/American/Chester's Grill",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Chester/Home/chestergrill_10.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Coco Ichibanya" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Japanese/Coco Ichibanya",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/cocoichibanya.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "F:Lab Fashion & Cafe" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/f-lab.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "G Floor: Cosmo Boulevard"
             },
             "Fin Sushi" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/fin.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Fuji" : {
@@ -26870,8 +26827,6 @@
               "icnt" : "125",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/u3gn-listing.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "Fuji",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cg2wk/fuji",
               "visible" : "y",
               "zcat" : "Rice,Salad,Sashimi,Japanese"
@@ -26879,47 +26834,38 @@
             "Guu Roti" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/guu.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Hakoneake" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/hakoneake.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Jeffer Steak" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/jeffer.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "KFC" : {
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/American/KFC",
               "icon" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/zzphotos%2F___KFC20190806T082036923Z14704dc942.jpg___?alt=media&token=8f149484-b9af-4e93-8ecb-5dabc18f5292",
               "icond" : "2019.08.06T10.20.41.GMT",
-              "item" : "KFC",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Krua Rincome" : {
               "icon" : "https://firebasestorage.googleapis.com/v0/b/myhotel-83b2a.appspot.com/o/zzphotos%2F___KruaRincome20190806T081943930Zf353e8495.jpg___?alt=media&token=39e2fc8e-eb68-41e9-90a6-96e28a78bc57",
               "icond" : "2019.08.06T10.19.48.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Life Ford Paris" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/lifeford.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "Basement 1: Strolling Mart"
             },
             "MK" : {
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Desserts/MK",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/MK%20Bangkok/Home/mk006.jpg",
               "icond" : "2018.02.19T15:48:38.GMT",
-              "item" : "MK",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar",
               "viator" : "https://www.foodpanda.co.th/chain/cu7mn/pizza-hut",
               "visible" : "y",
@@ -26928,7 +26874,6 @@
             "Miyabi" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/miyabi.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Miyazaki" : {
@@ -26940,69 +26885,54 @@
             "Natthakarn Southern Food" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/natthakarn.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Pizza Hut" : {
               "fbase" : "World/THA/KhonKaen/Central/Food/Thai/James/FPanda/chiang-mai/American/Pizza Hut",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/t0tb-listing.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "Pizza Hut",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cu7mn/pizza-hut",
               "zcat" : "Italian,Pizza,American"
             },
             "Shabushi" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/shabushi.png",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Starbucks Coffee" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Cafe/Starbucks",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/starbucks.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "G Floor: Cosmo Boulevard"
             },
             "The Duke's" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/American/Dukes",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/dukes.jpg",
               "icond" : "2018.02.13T15:25:18.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "The Pizza Company" : {
               "fbase" : "World/THA/KhonKaen/Central/Food/Thai/James/FPanda/chiang-mai/Italian/The Pizza Company (Delco Changklan)",
               "icon" : "https://images.deliveryhero.io/image/fd-th/LH/t0ki-listing.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "The Pizza Company",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/restaurant/t0ki/the-pizza-company-delco-changklan",
               "zcat" : "Pizza,Italian"
             },
             "Tudari Express" : {
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/tudari.jpg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "food",
               "unit" : "4 Floor: Food Bazaar"
             },
             "Yayoi" : {
-              "dscr" : "",
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Japanese/Yayoi",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Yayoi/Home/yayoi6.jpeg",
               "icond" : "2018.02.13T15:25:16.GMT",
-              "type" : "Food & Drink",
               "unit" : "5th Floor"
             },
             "Yoshinoya" : {
               "fbase" : "World/THA/CMI/Central/Mall/Shop/Maya/FPanda/Maya/Food/Japanese/Yoshinoya",
               "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/CMI/Maya/Menu/Food/yoshinoya.jpg",
               "icond" : "2018.02.19T15:48:36.GMT",
-              "item" : "Yoshinoya",
-              "type" : "food",
               "viator" : "https://www.foodpanda.co.th/chain/cf1tc/yoshinoya",
               "zcat" : "Fast Food,Rice,Japanese"
             }

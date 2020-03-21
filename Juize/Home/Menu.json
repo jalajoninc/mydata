@@ -1,0 +1,46 @@
+{
+  "Bangkok" : {
+    "dscr" : "Bangkok, Thailand",
+    "fbase" : "World/Tha/BKK/Central/Tour/Trip/Juize/AMenu/Bangkok",
+    "icon" : "https://raw.githubusercontent.com/jalajoninc/mydata/master/Juize/Menu/bangkok.jpg",
+    "icond" : "2000.01.11T01:11:14.GMT",
+    "item" : "Bangkok",
+    "zadr" : [
+      {
+        "adr" : "Adr :Arrival Fast Track Airport Services Including Buggy",
+        "city" : "City :Arrival Fast Track Airport Services Including Buggy",
+        "email" : "jalajoninc@gmail.com",
+        "fbase" : "World/THA/Bangkok/Central/Food/Thai/Thai4/BoxingI",
+        "lat" : "18.804109",
+        "lng" : "98.967410",
+        "nm" : "nm :Arrival Fast Track Airport Services Including Buggy"
+      }
+    ],
+    "zslot" : [
+      {
+        "dscr" : "Trip 0800",
+        "price" : "2",
+        "time" : "0800-1000",
+        "title" : "Trip 0800"
+      },
+      {
+        "dscr" : "Trip 1200",
+        "price" : "2",
+        "time" : "1200-1400",
+        "title" : "Trip 1200"
+      },
+      {
+        "dscr" : "Trip 1600",
+        "price" : "2",
+        "time" : "1600-1800",
+        "title" : "Trip 1600"
+      },
+      {
+        "dscr" : "Trip 2000",
+        "price" : "2",
+        "time" : "2000-2200",
+        "title" : "Trip 2000"
+      }
+    ]
+  }
+}
